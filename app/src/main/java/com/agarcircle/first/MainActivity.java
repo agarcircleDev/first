@@ -33,6 +33,9 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 double a, b, c = 0;
+
+
+
                 a = Double.parseDouble(num1.getText().toString());
                 b = Double.parseDouble(num2.getText().toString());
                 int i;
